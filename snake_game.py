@@ -1,4 +1,4 @@
-# snake_game_full.py
+# snake_game_V1.0
 import tkinter as tk
 import random
 import math
@@ -281,3 +281,4 @@ if __name__=="__main__":
     root=tk.Tk()
     game=SnakeGame(root)
     root.mainloop()
+
